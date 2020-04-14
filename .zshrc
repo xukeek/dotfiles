@@ -9,7 +9,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/alex/.oh-my-zsh"
+export ZSH="/home/xukeek/.oh-my-zsh"
 
 export virtualenv="python -m virtualenv"
 
